@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kWKw17MVLvvarntFe/BzcOl0R2iFzzSgjXTuc58vMaUhErUZ755zxiC1VsO5+DPVxpUmONmaJCLA3myHqhkekA==",
+  "success": true,
+  "projectFilePath": "D:\\Csharp\\EasyTask\\EasyTask\\EasyTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\Kevin\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}
